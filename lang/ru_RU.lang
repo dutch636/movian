@@ -2145,4 +2145,7 @@ msg: Все
 id: All (IP)
 msg: Все (IP)
 
+id: HW Decoder Upscale to 1080p
+msg: HW декодер с повышением разрешения до 1080p
+
 
