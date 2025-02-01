@@ -2145,7 +2145,51 @@ msg: Все
 id: All (IP)
 msg: Все (IP)
 
-id: HW Decoder Upscale to 1080p
-msg: HW декодер с повышением разрешения до 1080p
+id: HW Decoder Upscale to Full Frame
+msg: HW декодер масштабирование до полного кадра
+
+id: UI Lock to Video Framerate
+msg: Привязка UI интерфейса к частоте кадров видео
+
+id: UI Framerate
+msg: Частота кадров
+
+id: Used by M7
+msg: Используется M7
+
+id: Exit
+msg: Выход
+
+id: TV Settings
+msg: Настройки ТВ
+
+id: Reset to default
+msg: Сбросить по умолчанию
+
+id: Seeders
+msg: Сиды
+
+id: Leechers
+msg: Личи
+
+id: Peers
+msg: Пиры
+
+id: Connected to
+msg: Подключено к
+
+id: Speed (kb/s)
+msg: Скорость (kb/s)
+
+id: Active pieces
+msg: Активные части
+
+id: Memory use (MB)
+msg: Использование памяти (мб)
+
+id: Cache size (MB)
+msg: Размер кэша (мб)
+
+
 
 
